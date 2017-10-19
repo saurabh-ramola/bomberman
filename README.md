@@ -1,6 +1,6 @@
-#BOMBERMAN GAME created as part of the SSAD course for the 3rd semester.
+**BOMBERMAN GAME created as part of the SSAD course for the 3rd semester.
 
-##The game can be started by typing "python controller.py" on your terminal and can be played by using the controls:
+**The game can be started by typing "python controller.py" on your terminal and can be played by using the controls:
 
 **Basic Controls** ::
 
@@ -24,16 +24,16 @@
 =>You can press q at any point of the game to stop the game.
 
 
-###The game has been made without the use of pygame or ncurses library and solely relies on the OOPS concepts and some hard-coding the basic stuff.
-###The source code follows the OOPS concepts i.e.,
+**The game has been made without the use of pygame or ncurses library and solely relies on the OOPS concepts and some hard-coding the basic stuff.
+The source code follows the OOPS concepts i.e.,
 **1**.Encapsulation
 **2**.Modularity
 **3**.Polymorphism
 **4**.Inheritance , at various steps in the process.
 
-###The code has been commented for people who wish to understand the source code of the game to provide them with a better understanding of what has been done to make the game work.
+**The code has been commented for people who wish to understand the source code of the game to provide them with a better understanding of what has been done to make the game work.
 
-###Hope you like the game and enjoy while playing it.
+**Hope you like the game and enjoy while playing it.
 
 **Saurabh Chand Ramola**
 **20161106**
